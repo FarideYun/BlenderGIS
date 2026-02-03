@@ -1,4 +1,4 @@
-Blender GIS.
+Blender GIS.12
 ==========
 Blender minimum version required : v2.83
 
